@@ -2,3 +2,4 @@
 set -eu
 
 echo "agent-starter-kit"
+# guard against empty input
