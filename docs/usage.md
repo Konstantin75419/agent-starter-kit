@@ -17,3 +17,4 @@ Notes and usage details for agent-starter-kit.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- add a note about the defaults
